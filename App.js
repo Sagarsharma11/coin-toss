@@ -22,7 +22,7 @@ export default function App() {
 
     // Reset animation value
     flipAnimation.setValue(0);
-
+    // another commit
     // Create a looping animation
     Animated.loop(
       Animated.sequence([
